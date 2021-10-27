@@ -7,7 +7,7 @@ chardet==3.0.4
 cloudpickle==0.7.0
 colorama==0.4.1
 cycler==0.10.0
-dask==1.1.0
+dask==2021.10.0
 decorator==4.3.0
 fasteners==0.15
 FlyAi==0.5.4
