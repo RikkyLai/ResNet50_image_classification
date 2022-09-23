@@ -39,7 +39,7 @@ parso==0.5.1
 pickleshare==0.7.5
 Pillow==5.4.1
 prompt-toolkit==3.0.2
-protobuf==3.6.1
+protobuf==3.18.3
 pycparser==2.19
 Pygments==2.5.2
 pyparsing==2.3.1
